@@ -1,3 +1,4 @@
+import React from 'react';
 import { CreditCard, Building, Smartphone, Star, Wallet } from 'lucide-react';
 
 const accountTypes = [

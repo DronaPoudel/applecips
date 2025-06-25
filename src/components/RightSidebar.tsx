@@ -1,3 +1,4 @@
+import React from 'react';
 import { MapPin, Phone, Mail, Download, Store } from 'lucide-react';
 
 const notifications = [

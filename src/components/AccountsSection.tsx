@@ -1,3 +1,4 @@
+import React from 'react';
 import { MoreHorizontal, Download, Plus } from 'lucide-react';
 
 const accounts = [

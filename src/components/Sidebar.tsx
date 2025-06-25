@@ -1,3 +1,4 @@
+import React from 'react';
 import { CreditCard, Home, Building2, Users, FileText, History, HelpCircle } from 'lucide-react';
 
 const sidebarItems = [

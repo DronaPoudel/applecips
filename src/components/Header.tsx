@@ -1,3 +1,4 @@
+import React from 'react';
 import { Search, Menu, Bell } from 'lucide-react';
 
 export function Header() {

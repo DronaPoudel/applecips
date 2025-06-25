@@ -1,3 +1,4 @@
+import React from 'react';
 import { Star, Clock, MoreHorizontal } from 'lucide-react';
 
 const creditors = [

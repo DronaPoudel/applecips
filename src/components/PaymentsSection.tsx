@@ -1,3 +1,4 @@
+import React from 'react';
 import { Building2, Zap, Building, Users, CreditCard, ChevronLeft, ChevronRight } from 'lucide-react';
 
 const paymentCategories = [
